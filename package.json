@@ -1,0 +1,7 @@
+{
+  "name":"Jokes With Rosel",
+  "main": "app.js",
+  "devDependencies":{
+    "node-twitterbot": "^0.2.2"
+  }
+}
