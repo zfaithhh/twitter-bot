@@ -37,12 +37,15 @@ var newTweets = [
   "@roselpadilla: http://i.imgur.com/DX4gdmu.gifv",
   "@roselpadilla: http://www.dailymail.co.uk/news/article-3400375/The-disturbing-photo-internet-talking.html",
   "@roselpadilla: Go big or go home, fam. http://i.imgur.com/f77TnHe.gifv",
-  
+
 ];
 
 function autoTweet() {
-   var rand = newTweets[Math.floor(Math.random() * newTweets.length)];
-   Bot.tweet(rand);
- }
+  var index = Math.floor(Math.random() * newTweets.length)
+  var randTweet = newTweets[index];
+  Bot.tweet(randTweet);
+
+  newTweets.splice(index, 1);
+}
 
 autoTweet();
