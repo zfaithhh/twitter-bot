@@ -18,7 +18,7 @@ var newTweets = [
   "@roselpadilla: You are the CSS to my HTML.",
   "@roselpadilla: If at first you don't succeed, call it version 1.0.",
   "@roselpadilla: Are you sitting on the F5 key? Because your ass is refreshing!",
-  "@roselpadilla: You had me at 'Hello World'"
+  "@roselpadilla: You had me at 'Hello World'",
   "@roselpadilla: Yeezy for President 2020!",
   "@roselpadilla: If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. - Kanye West",
   "@roselpadilla: Get off your butt and do something.",
@@ -33,7 +33,6 @@ var newTweets = [
 function autoTweet() {
    var rand = newTweets[Math.floor(Math.random() * newTweets.length)];
    Bot.tweet(rand);
-   newTweets.splice(rand);
  }
 
 autoTweet();
