@@ -28,6 +28,12 @@ var newTweets = [
   "@roselpadilla: The trouble with programmers is that you can never tell what a programmer is doing until its too late.",
   "@roselpadilla: http://watchitvideos.com/ex-machina-2015-free-online36-putlocker2/",
   "@roselpadilla: Your girlfriend loves you very very very very much.",
+  "@roselpadilla: https://www.youtube.com/watch?v=OdVh4LsH0mY",
+  "@roselpadilla: http://paulgraham.com/avg.html",
+  "@roselpadilla: *gasssssssssp*",
+  "@roselpadilla: Ribbit",
+  "@roselpadilla: What do you call a tiger with glasses? A scientist tiger.",
+  "@roselpadilla: How much code would a coder code if a coder could code code?",
 ];
 
 function autoTweet() {
