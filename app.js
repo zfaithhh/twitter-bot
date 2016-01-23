@@ -34,6 +34,7 @@ var newTweets = [
   "@roselpadilla: Ribbit",
   "@roselpadilla: What do you call a tiger with glasses? A scientist tiger.",
   "@roselpadilla: How much code would a coder code if a coder could code code?",
+  "@roselpadilla: http://i.imgur.com/DX4gdmu.gifv",
 ];
 
 function autoTweet() {
