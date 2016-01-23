@@ -35,6 +35,8 @@ var newTweets = [
   "@roselpadilla: What do you call a tiger with glasses? A scientist tiger.",
   "@roselpadilla: How much code would a coder code if a coder could code code?",
   "@roselpadilla: http://i.imgur.com/DX4gdmu.gifv",
+  "@roselpadilla: http://www.dailymail.co.uk/news/article-3400375/The-disturbing-photo-internet-talking.html",
+  
 ];
 
 function autoTweet() {
