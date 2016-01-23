@@ -27,7 +27,7 @@ var newTweets = [
   "@roselpadilla: The best thing about a boolean is even if you are wrong, you're only off by a bit.",
   "@roselpadilla: The trouble with programmers is that you can never tell what a programmer is doing until its too late.",
   "@roselpadilla: http://watchitvideos.com/ex-machina-2015-free-online36-putlocker2/",
-  "@roselpadilla: You're girlfriend loves you very very very very much.",
+  "@roselpadilla: Your girlfriend loves you very very very very much.",
 ];
 
 function autoTweet() {
