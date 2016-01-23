@@ -36,6 +36,7 @@ var newTweets = [
   "@roselpadilla: How much code would a coder code if a coder could code code?",
   "@roselpadilla: http://i.imgur.com/DX4gdmu.gifv",
   "@roselpadilla: http://www.dailymail.co.uk/news/article-3400375/The-disturbing-photo-internet-talking.html",
+  "@roselpadilla: Go big or go home, fam. http://i.imgur.com/f77TnHe.gifv",
   
 ];
 
