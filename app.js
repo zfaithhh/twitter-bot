@@ -7,6 +7,12 @@ var Bot = new TwitterBot({
   "access_token_secret": "SORKApsLU8Bw6P6Bdlcq6CyNOjaNrGEdgOSZxtUm60WH4"
 });
 
+var newTweets = [
+  "@imnotsavana: You are so beautiful!", 
+  "@imnotsavana: WHAT YOU DOING OUT HERE WITH ALL THAT ASS???",
+  "@imnotsavana: 10/10 would kiss u goodnight"
+]
+
 function autoTweet() {
   var index = Math.floor(Math.random() * newTweets.length)
   var randTweet = newTweets[index];
